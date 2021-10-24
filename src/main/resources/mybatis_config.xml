@@ -19,6 +19,6 @@
 
     <!--a Mapper.xml need regist in Mybatis core configuration file-->
     <mappers>
-        <mapper resource="com/kuang/dao/UserMapper.xml"/>
+        <mapper resource="com/bt/dao/UserMapper.xml"/>
     </mappers>
 </configuration>
