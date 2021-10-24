@@ -7,6 +7,6 @@
 
     <!--sql-->
     <select id="getUserList" resultType="com.bt.pojo.User">
-        select * from mybatis.user
+        select * from mybatis.user;
     </select>
 </mapper>
